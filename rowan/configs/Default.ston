@@ -1,8 +1,8 @@
 RwProjectCompoundConfiguration {
 	#name : 'Default',
 	#packageNames : [
-		'RowanSample2-Core'
+		'RowanSample3-Core'
 	],
 	#configurationNames : [ ]
-	#comment : 'configuration for the RowanSample2 project',
+	#comment : 'configuration for the RowanSample3 project',
 }
