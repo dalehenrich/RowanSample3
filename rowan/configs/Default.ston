@@ -3,6 +3,6 @@ RwProjectCompoundConfiguration {
 	#packageNames : [
 		'RowanSample3-Core'
 	],
-	#configurationNames : [ ]
-	#comment : 'configuration for the RowanSample3 project',
+	#configurationNames : [ ],
+	#comment : 'configuration for the RowanSample3 project'
 }
