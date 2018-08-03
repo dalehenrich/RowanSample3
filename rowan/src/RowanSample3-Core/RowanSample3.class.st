@@ -5,5 +5,5 @@ Class {
 }
 
 { #category : 'accessing' }
-RowanSample3 >> foo [ "2018-08-03T16:38:59.10675001144409-07:00"^'foo'
+RowanSample3 >> foo [ "2018-08-03T16:41:33.4942901134491-07:00"^'foo'
 ]
