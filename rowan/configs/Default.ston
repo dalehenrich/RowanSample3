@@ -3,6 +3,12 @@ RwProjectCompoundConfiguration {
 	#packageNames : [
 		'RowanSample3-Core'
 	],
-	#configurationNames : [ ],
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'default' : {
+				#defaultSymbolDictName : 'RowanSample4SymbolDict'
+			}
+		}
+	},
 	#comment : 'configuration for the RowanSample3 project'
 }
