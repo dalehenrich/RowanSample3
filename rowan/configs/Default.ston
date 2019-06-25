@@ -1,4 +1,4 @@
-RwProjectCompoundConfiguration {
+RwComponentLoadConfiguration {
 	#name : 'Default',
 	#packageNames : [
 		'RowanSample3-Core'
