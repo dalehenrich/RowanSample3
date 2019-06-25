@@ -1,10 +1,12 @@
 RwComponentLoadConfiguration {
 	#name : 'Default',
 	#conditionalPackages : {
-		'common' : {
-			#packageNames : [
-				'RowanSample3-Core'
-			]
+		[ 'common' ] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample3-Core'
+				]
+			}
 		}
 	},
 	#conditionalPackageMapSpecs : {
