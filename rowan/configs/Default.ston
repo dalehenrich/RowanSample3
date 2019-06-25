@@ -1,8 +1,12 @@
 RwComponentLoadConfiguration {
 	#name : 'Default',
-	#packageNames : [
-		'RowanSample3-Core'
-	],
+	#conditionalPackages : {
+		'common' : {
+			#packageNames : [
+				'RowanSample3-Core'
+			]
+		}
+	},
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'default' : {
