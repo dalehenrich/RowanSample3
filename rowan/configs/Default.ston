@@ -16,5 +16,12 @@ RwComponentLoadConfiguration {
 			}
 		}
 	},
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'SampleSymbolDict'
+			}
+		}
+	},
 	#comment : 'configuration for the RowanSample3 project'
 }
