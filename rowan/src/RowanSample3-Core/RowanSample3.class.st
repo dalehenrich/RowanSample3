@@ -6,5 +6,6 @@ Class {
 
 { #category : 'accessing' }
 RowanSample3 >> foo [
-	^'foo'
+ "2019-09-10T10:50:48.25911688804626-07:00"
+^1 
 ]
