@@ -1,7 +1,11 @@
 RwComponentLoadConfiguration {
 	#name : 'Default',
+	#comment : 'configuration for the RowanSample3 project',
+	#version : '0.1.0',
 	#conditionalPackages : {
-		[ 'common' ] : {
+		[
+			'common'
+		] : {
 			'core' : {
 				#packageNames : [
 					'RowanSample3-Core'
@@ -16,5 +20,5 @@ RwComponentLoadConfiguration {
 			}
 		}
 	},
-	#comment : 'configuration for the RowanSample3 project'
+	#definedGroupNames : { }
 }
