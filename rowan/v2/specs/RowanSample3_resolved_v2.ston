@@ -12,7 +12,7 @@ RwLoadSpecificationV2 {
 		'gemstone' : {
 			'allusers' : {
 				#defaultUseSessionMethodsForExtensions : false,
-				#defaultSymbolDictName : 'UserGlobals'
+				#defaultSymbolDictName : 'RowanTestData'
 			}
 		}
 	},
