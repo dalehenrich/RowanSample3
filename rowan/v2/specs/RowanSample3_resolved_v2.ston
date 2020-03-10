@@ -8,5 +8,14 @@ RwLoadSpecificationV2 {
 		'Core'
 	],
 	#customConditionalAttributes : [ ],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultUseSessionMethodsForExtensions : false,
+				#defaultSymbolDictName : 'UserGlobals'
+			}
+		}
+	},
+
 	#comment : 'standard load spec'
 }
