@@ -5,6 +5,6 @@ RwSimpleProjectLoadComponentV2 {
 	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample3-Core'
- ],
+	],
 	#comment : 'top-level component for loading entire Rowan project.'
 }
